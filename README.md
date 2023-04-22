@@ -2,13 +2,13 @@
 
 ## How to use
 ```bash
-npm i  --save-dev https://github.com/ClintFlames/TypesDiepAPI
+npm i https://github.com/ClintFlames/TypesDiepAPI --save-dev
 ```
 Then in `tsconfig.json`
 ```js
 ...
 "types": [
-	"typesdiepapi"
+  "typesdiepapi"
 ]
 ...
 ```
