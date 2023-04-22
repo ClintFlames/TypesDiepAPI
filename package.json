@@ -1,0 +1,27 @@
+{
+	"name": "typesdiepapi",
+	"version": "1.0.0",
+	"description": "Types for DiepAPI by Cazka.",
+	"main": ".",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ClintFlames/TypesDiepAPI.git"
+	},
+	"keywords": [
+		"d.ts",
+		"definition",
+		"types",
+		"diep",
+		"diepapi",
+		"cazka"
+	],
+	"author": "ClintFlames",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ClintFlames/TypesDiepAPI/issues"
+	},
+	"homepage": "https://github.com/ClintFlames/TypesDiepAPI#readme"
+}
