@@ -1,4 +1,7 @@
 export class Vector {
+	get x():number;
+	get y():number;
+
 	constructor(x:number, y:number);
 
 	static len     (v:Vector            ):number;
