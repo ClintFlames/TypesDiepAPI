@@ -5,7 +5,7 @@
 npm i  --save-dev https://github.com/ClintFlames/TypesDiepAPI
 ```
 Then in `tsconfig.json`
-```json
+```js
 ...
 "types": [
 	"typesdiepapi"
